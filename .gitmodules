@@ -1,0 +1,6 @@
+[submodule "hello-blog/themes/lightbi-hugo"]
+	path = hello-blog/themes/lightbi-hugo
+	url = https://github.com/binokochumolvarghese/lightbi-hugo
+[submodule "hello-blog/themes/hugo-bearblog"]
+	path = hello-blog/themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
